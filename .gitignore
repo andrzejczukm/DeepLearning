@@ -1,0 +1,8 @@
+# python files
+__pycache__
+venv/
+
+# input data
+data/
+# saved training statistics & network architectures
+saved/
