@@ -1,8 +1,7 @@
 numpy==1.26.4
-matplotlib==3.8.4
 torch==2.2.1
 torchvision==0.17.1
-seaborn==0.12.2
+torcheval==0.0.7
 diffusers==0.27.2
 datasets==2.19.1
 tqdm
